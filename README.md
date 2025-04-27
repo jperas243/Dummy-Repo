@@ -1,3 +1,8 @@
-# FinN'Push Installation
+# FinN'Push Tests
 
-# Repos Instalation
+## Fidelity Tests
+
+* Run Script
+* Run JSON Matcher
+
+## User Tests
